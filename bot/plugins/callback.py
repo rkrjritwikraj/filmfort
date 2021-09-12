@@ -1608,7 +1608,7 @@ async def cb_about(bot, update: CallbackQuery):
         [
             InlineKeyboardButton
                 (
-                    "My Dev ⚡", url="https://t.me/AlbertEinstein_TG"
+                    "My Dev ⚡", url="https://t.me/Silentkilleroff"
                 ),
                 
             InlineKeyboardButton
@@ -1639,8 +1639,8 @@ async def callback_data(bot, update: CallbackQuery):
 
     if query_data == "start":
         buttons = [[
-            InlineKeyboardButton('⚠️ JOIN', url='https://t.me/joinchat/5UxSr0XIphVhYjc9'),
-            InlineKeyboardButton('🕵‍♂ CREATOR', url ='https://t.me/Wafikh')
+            InlineKeyboardButton('⚠️ JOIN', url='https://t.me/joinchat/fRLWk4-dsRA1MTA1'),
+            InlineKeyboardButton('🕵‍♂ CREATOR', url ='https://t.me/Silentkilleroff')
         ],[
             InlineKeyboardButton('💡 HELP', callback_data="help"),
             InlineKeyboardButton('🔐 CLOSE', callback_data="close")
