@@ -24,7 +24,7 @@ async def start(bot, update):
             await update.reply_text(
                 text="<b>🔊 𝗝𝗼𝗶𝗻 𝗢𝘂𝗿 𝗠𝗮𝗶𝗻 𝗰𝗵𝗮𝗻𝗻𝗲𝗹 🤭\n\nനിങ്ങൾക് സിനിമകൾ വെന്നോ? അതിനായി അത്യം ങ്ങളുടെ മെയിൻ ചാനലിൽ ജോയിൻ ചെയ്യണം... 😁\n\nJoin ചെയതത്തിനു ശേഷം വീണ്ടും ബോട്ട് /start ആക്കൂ.😁</b>",
                 reply_markup=InlineKeyboardMarkup([
-                    [ InlineKeyboardButton(text=" 🔰JOIN OUR CHANNEL🔰 ", url=f"https://t.me/malayalamtorren")]
+                    [ InlineKeyboardButton(text=" 🔰JOIN OUR CHANNEL🔰 ", url=f"https://t.me/mallu_pdisk_station")]
               ])
             )
             return
@@ -107,7 +107,7 @@ async def start(bot, update):
 
     buttons = [[
         InlineKeyboardButton('⚠️ JOIN', url='https://t.me/joinchat/fRLWk4-dsRA1MTA1'),
-        InlineKeyboardButton('🕵‍♂ CREATOR', url ='https://t.me/mallu_pdisk_station')
+        InlineKeyboardButton('🕵‍♂ CREATOR', url ='https://t.me/Silentkilleroff')
     ],[
         InlineKeyboardButton('💡 HELP', callback_data="help"),
         InlineKeyboardButton('🔐 CLOSE', callback_data="close")
