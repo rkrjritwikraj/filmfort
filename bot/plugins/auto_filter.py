@@ -62,7 +62,7 @@ async def auto_filter(bot, update):
     if filters:
         results.append(
                 [
-                    InlineKeyboardButton("⚠️ ERROR CLICK HERE ⚠️", url="https://t.me/CineGramamOfficial")
+                    InlineKeyboardButton("⚠️ ERROR CLICK HERE ⚠️", url="https://t.me/torrentz2wlcm1")
                 ]
             )
         for filter in filters: # iterating through each files
