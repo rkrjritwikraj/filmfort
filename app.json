@@ -8,7 +8,7 @@
         "Mongo DB"
     ],
     "website": "https://github.com/AlbertEinsteinTG",
-    "repository": "https://github.com/rkrjritwikraj/autofilterrkrj",
+    "repository": "https://github.com/rkrjritwikraj/filmfort",
     "success_url": "https://telegram.dog/MG_MEDIA",
     "env": {
         "APP_ID": {
